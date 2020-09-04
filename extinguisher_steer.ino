@@ -15,6 +15,7 @@ const int dir_pin = 0;
 
 
 void setup(){
+	Serial.begin(38400);
 	pinMode(en_pin, OUTPUT);
 	pinMode(step_pin, OUTPUT);
 	pinMode(dir_pin, OUTPUT);
