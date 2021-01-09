@@ -1,6 +1,6 @@
 ## 
 
-# 자율 인지형 국소 소화 장치
+# Autonomous cognitive local fire extinguisher
 
 #### 팀명: 1917
 
